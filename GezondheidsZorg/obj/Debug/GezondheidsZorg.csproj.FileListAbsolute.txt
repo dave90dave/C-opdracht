@@ -1,0 +1,3 @@
+C:\Users\Administrator\Desktop\GezondheidsZorg-master\GezondheidsZorg\obj\Debug\GezondheidsZorg.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\GezondheidsZorg-master\GezondheidsZorg\obj\Debug\GezondheidsZorg.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GezondheidsZorg-master\GezondheidsZorg\obj\Debug\GezondheidsZorg.csproj.GenerateResource.cache
